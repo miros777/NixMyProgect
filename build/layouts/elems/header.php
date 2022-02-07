@@ -7,19 +7,19 @@
             <div class="d-none col-lg-6 ml-lg-auto d-lg-flex justify-content-between align-items-center">
                 <nav>
                     <ul class="d-flex justify-content-between align-items-center">
-    <li><a href="">Study</a></li>
-    <li><a href="">About us</a></li>
-    <li><a href="">Admmission</a></li>
-    <li><a href="">Pages</a></li>
-    <li><a href="">News</a></li>
-    <li><a href="">Contact</a></li>
-</ul>
+                        <li><a href="">Study</a></li>
+                        <li><a href="">About us</a></li>
+                        <li><a href="">Admmission</a></li>
+                        <li><a href="">Pages</a></li>
+                        <li><a href="">News</a></li>
+                        <li><a href="">Contact</a></li>
+                    </ul>
                 </nav>
             </div>
             <div class="col-8 col-lg-2 d-flex align-content-center">
                 <div class="registry">
-                    <a href="registery.html" class="btn btn-small">Registry</a>
-                    <a href="login.html" class="btn btn-small">Login</a>
+                    <a href="registery.php" class="btn btn-small">Registry</a>
+                    <a href="login.php" class="btn btn-small">Login</a>
                 </div>
             </div>
         </div>
